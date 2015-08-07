@@ -1,6 +1,0 @@
-Rules for language:
-
-/n will terminate a statement unless you end the statement with the ` character
-~~ will comment out a full block of code for example if..else and while blocks
-[] for blocks and {} for arrays
-no starting brace for if else or while for
