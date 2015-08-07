@@ -1,0 +1,12 @@
+var truth true
+var some_num 6
+if truth 
+	print hello
+	print some_num
+] 
+if some_num > 5 
+	print world
+]
+else 
+	print hell
+]
